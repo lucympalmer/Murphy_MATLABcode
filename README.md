@@ -4,7 +4,7 @@ MATLAB code used for analyzing the two-photon calcium imaging performed in C57BL
 Perform motion correction on all movies
 Save ROIs [zip] in same folder as data
 
-run 'ReadImageJ'
-run 'ReadROIs'
-run 'ConvertDFF'
-run 'CalciumTraceAnalysis'
+Run 'ReadImageJ.m'
+Run 'ReadROIs.m'
+Run 'ConvertDFF.m'
+Run 'CalciumTraceAnalysis.m'
